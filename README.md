@@ -1,0 +1,1 @@
+Source for my blog post [Go Concurrency First Try](https://billjh.github.io/blog/2017/go-concurrency-first-try/)
